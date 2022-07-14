@@ -1,0 +1,3 @@
+jdaviz
+jwst
+jupyter
