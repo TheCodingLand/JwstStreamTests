@@ -1,0 +1,1892 @@
+[
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00001_nrca3_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00001_nrcalong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00001_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00002_nrca1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00002_nrca3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00002_nrcb1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00003_nrcalong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00003_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00003_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00003_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00004_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00005_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00005_nrcb1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00005_nrcb1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02101_00005_nrcb4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00001_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00001_nrca3_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00001_nrca3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00002_nrca1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00002_nrca1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00002_nrca4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00002_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00003_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00003_nrca4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00003_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00003_nrcb4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00003_nrcblong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00003_nrcblong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00004_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00004_nrcalong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00004_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00004_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00004_nrcblong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00005_nrca4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02103_00005_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00001_nrcalong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00001_nrcalong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00001_nrcb1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00001_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00001_nrcblong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00002_nrca1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00002_nrca4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00002_nrcalong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00002_nrcb1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00002_nrcb1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00002_nrcb3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00003_nrca3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00003_nrcalong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00004_nrca2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00004_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00004_nrca3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00004_nrcb3_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00004_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00004_nrcb4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00005_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001001/jw02731001001_02105_00005_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00001_nrca1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00001_nrcalong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00001_nrcalong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00001_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00001_nrcb4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00002_nrca4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00002_nrca4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00002_nrca4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00002_nrcalong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00003_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00003_nrcb3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00003_nrcblong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00004_nrca3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00004_nrcb1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00004_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00004_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00004_nrcblong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00005_nrca2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00005_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00005_nrca3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00005_nrca4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00005_nrcb1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02101_00005_nrcb4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00001_nrcb3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00001_nrcblong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00002_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00002_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00003_nrcalong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00003_nrcblong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00004_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00004_nrca4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00004_nrcb3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00004_nrcb4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00005_nrca1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00005_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00005_nrca4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00005_nrca4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02103_00005_nrcb1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00001_nrca3_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00002_nrca4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00002_nrcb1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00002_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00003_nrca3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00003_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00004_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00004_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00004_nrca3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00004_nrcb1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00005_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00005_nrca3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00005_nrca4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00005_nrcb1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00005_nrcb1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00005_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001002/jw02731001002_02105_00005_nrcblong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00001_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00001_nrcb1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00001_nrcblong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00002_nrca1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00002_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00002_nrca2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00002_nrcb4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00003_nrcalong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00004_nrcb1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00004_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00004_nrcb4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00004_nrcblong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00005_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00005_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00005_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02101_00005_nrcb4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00001_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00001_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00001_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00001_nrcb3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00001_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00002_nrca3_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00002_nrca4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00002_nrca4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00002_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00003_nrca3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00003_nrcalong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00003_nrcb1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00003_nrcb3_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00003_nrcb3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00003_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00003_nrcb4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00004_nrca1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00004_nrca1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00004_nrca2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00004_nrca3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00004_nrcb1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00004_nrcblong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00005_nrca1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00005_nrca3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00005_nrcalong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02103_00005_nrcb1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00001_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00001_nrca2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00001_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00001_nrcb3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00001_nrcb3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00002_nrca1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00002_nrca1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00002_nrca3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00002_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00003_nrca4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00003_nrcb1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00003_nrcb1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00003_nrcb4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00003_nrcblong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00004_nrcalong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00004_nrcalong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00004_nrcb1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00004_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00004_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00004_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00005_nrca2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00005_nrca3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00005_nrca4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00005_nrca4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00005_nrcalong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00005_nrcb1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00005_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001003/jw02731001003_02105_00005_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00001_nrca1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00001_nrca2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00001_nrca4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00001_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00002_nrca3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00002_nrca4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00002_nrcalong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00002_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00002_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00002_nrcb4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00003_nrcalong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00003_nrcalong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00003_nrcb4_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00003_nrcblong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00005_nrca4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00005_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00005_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F187N",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02101_00005_nrcb4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00001_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00001_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00001_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00001_nrcb3_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00001_nrcblong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00002_nrca2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00002_nrca4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00002_nrcalong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00002_nrcalong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00002_nrcb2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00002_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00003_nrca2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00003_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00003_nrcb3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00004_nrca1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00004_nrca1_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00004_nrca2_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00004_nrcb1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00004_nrcb3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00004_nrcb3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00004_nrcb4_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F335M",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00004_nrcblong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00005_nrca1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00005_nrca2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00005_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F090W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02103_00005_nrcb2_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00001_nrca3_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00002_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00002_nrcb3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00002_nrcblong_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00003_nrca1_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00003_nrca2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00003_nrca3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00003_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00003_nrcb3_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00003_nrcb3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00003_nrcblong_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F444W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00003_nrcblong_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00004_nrca1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00004_nrcb3_o001_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00005_nrca2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00005_nrcb1_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00005_nrcb2_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00005_nrcb3_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F200W",
+        "path": "./volumes/jwst_data/jw02731/jw02731001004/jw02731001004_02105_00005_nrcb4_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02101_00003_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02101_00004_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02101_00005_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02101_00008_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 8
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02103_00006_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 6
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02103_00006_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 6
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02103_00007_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02105_00004_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02105_00005_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02105_00006_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 6
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02105_00007_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02105_00008_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 8
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02107_00003_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02107_00007_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02107_00007_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002001/jw02731002001_02107_00007_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02101_00002_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02101_00004_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02101_00004_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02101_00005_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02103_00004_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02103_00007_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02105_00006_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 6
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02105_00006_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 6
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02105_00008_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 8
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02107_00001_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02107_00002_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002002/jw02731002002_02107_00006_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 6
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02101_00001_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02101_00002_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02101_00007_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02101_00008_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 8
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02103_00001_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02103_00003_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02103_00005_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02103_00007_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02105_00001_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02105_00006_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 6
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02105_00007_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02107_00005_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02107_00007_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02107_00008_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 8
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002003/jw02731002003_02107_00008_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 8
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02101_00001_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02101_00003_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02101_00003_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02101_00003_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02101_00004_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02101_00006_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 6
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02103_00003_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02103_00007_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02103_00007_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02103_00008_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 8
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02103_00008_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 8
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02105_00001_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02105_00007_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02105_00008_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 8
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02107_00001_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02107_00001_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02107_00003_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02107_00004_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02107_00007_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 7
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002004/jw02731002004_02107_00008_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 8
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002005/jw02731002005_02101_00001_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002005/jw02731002005_02101_00003_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F1130W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002005/jw02731002005_02101_00005_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 5
+    },
+    {
+        "filter": "F770W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002005/jw02731002005_02103_00004_mirimage_cal.fits",
+        "type": "ImageModel",
+        "position_number": 4
+    },
+    {
+        "filter": "F1280W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002005/jw02731002005_02105_00003_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 3
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002005/jw02731002005_02107_00001_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 1
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002005/jw02731002005_02107_00002_mirimage_i2d.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    },
+    {
+        "filter": "F1800W",
+        "path": "./volumes/jwst_data/jw02731/jw02731002005/jw02731002005_02107_00002_mirimage_o002_crf.fits",
+        "type": "ImageModel",
+        "position_number": 2
+    }
+]
